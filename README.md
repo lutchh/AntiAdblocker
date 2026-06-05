@@ -1,1 +1,1 @@
-The JavaScript code has been encrypted for security purposes. It works with almost every ad blocker, including Ublock and Brave Browser's ad blocker.It is safe for website owners to use.
+The JavaScript code has been encrypted for security purposes. It works with almost every ad blocker, including Ublock and Brave Browser's ad blocker.It is safe for website owners to use. You can call it as a file or use it within <script>.
